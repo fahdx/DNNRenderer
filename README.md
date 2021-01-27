@@ -8,7 +8,7 @@ DNN Render is modle for rednering 3D shapes . yet model result not that good (co
 2-PIL\
 3-trimesh\
 4-numpy\
-5-os\
+5-os
 
 # training
 ```sh
